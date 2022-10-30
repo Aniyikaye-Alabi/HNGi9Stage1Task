@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php 
   // Headers
   header('Access-Control-Allow-Origin: *');
@@ -84,4 +83,3 @@
     //     echo "0 results";
     }
 ?>
->>>>>>> 11bbb1a8763fffc0e556f66719f245194dbcb367
