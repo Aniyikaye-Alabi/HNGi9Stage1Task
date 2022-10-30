@@ -1,16 +1,13 @@
 <?php
-
-<<<<<<< HEAD
     // $servername = "localhost";
     // $username = "root";
     // $password = "";
     // $db_name = "hngi9db";
-=======
-    $servername = "db4free.net";
-    $username = "davepro123";
-    $password = "Dave@123";
-    $db_name = "hngi9db";
->>>>>>> 11bbb1a8763fffc0e556f66719f245194dbcb367
+
+//     $servername = "db4free.net";
+//     $username = "davepro123";
+//     $password = "Dave@123";
+//     $db_name = "hngi9db";
 
     // // Create connection
     // $conn = mysqli_connect($servername, $username, $password, $db_name);
@@ -24,10 +21,10 @@
 
     class Database {
         // 0B Params
-        private $host = 'localhost';
+        private $host = 'db4free.net';
         private $db_name = 'hngi9db';
-        private $username = 'root';
-        private $password = '';
+        private $username = 'davepro123';
+        private $password = 'Dave@123';
         private $conn;
 
         // DB Connect
