@@ -1,8 +1,8 @@
 <?php
 
-    $servername = "localhost";
-    $username = "root";
-    $password = "";
+    $servername = "db4free.net";
+    $username = "davepro123";
+    $password = "Dave@123";
     $db_name = "hngi9db";
 
     // Create connection
